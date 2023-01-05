@@ -1,0 +1,23 @@
+Todo
+-Create virtual environment
+-Install and setup
+-Init database, super user, test run
+-Create Core app for base pages
+-Create app for userprofiles
+-Create app for products
+    -Add category model
+-List out newest products on the front of page
+-Product detail view
+Category view
+-Show vendor detail page
+-Add images to products
+-Simple search
+-Vendor detail page
+-Make sign up, log in and log out
+-Create my account page
+-Add product to the cart
+-View cart 
+-Checkout
+-Implement payment gateway
+-Admin pages for the vendors
+-Deploy project
